@@ -5,10 +5,10 @@
 (https://resilientcoders.org/)  
   
 
-- 🌱 I’m currently learning MERN (MongoDB, Express, React, Node.js)  
+- 🌱 My current tech stack: MERN (MongoDB, Express, React, Node.js)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I can shake my eyes in place 🤓  
