@@ -1,14 +1,13 @@
-### <div align="center">I'm Waskar Paulino, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Waskar Paulino, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working @ResilientCoders 
-(https://resilientcoders.org/)  
+- 🔭 I’m currently working @Kinfolx
   
 
-- 🌱 My current tech stack: MERN (MongoDB, Express, React, Node.js)  
+- 🌱 My current tech stack: MERN (MongoDB, Express, React, Node.js, Next.js)  
   
 
-- ❓ Ask me about anything related to the MERN stack and related technologies  
+- ❓ Ask me about anything related to mobile app development and web development
   
 
 - ⚡ Fun fact: I can shake my eyes in place 🤓  
