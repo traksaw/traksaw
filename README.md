@@ -7,10 +7,15 @@ I taught before I coded. Was an Apple Genius before I built software. Bootcamp g
 ## What I work with
 
 **Languages & Frameworks:** JavaScript/TypeScript, React, TanStack (Start, Query), Node.js, Express, Swift, tldraw, Astro, Alpine.js
+
 **Data & Backend:** Convex, MongoDB, Clerk (auth), vector search & embeddings
+
 **AI/ML:** AI Engineering, LLM integration (OpenAI/Anthropic/Gemini-style APIs), multimodal & image analysis pipelines, prompt engineering, AI cost monitoring & rate-limiting
+
 **Creative/Audio-Visual:** p5.js, Meyda.js, Web Audio API
+
 **Deployment & Tools:** Vercel, Cloudinary, Tailwind CSS
+
 
 ## What I'm building
 
