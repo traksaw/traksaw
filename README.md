@@ -6,7 +6,7 @@ I taught before I coded. Was an Apple Genius before I built software. Bootcamp g
 
 ## What I work with
 
-**Languages & Frameworks:** JavaScript/TypeScript, React, TanStack (Start, Query), Node.js, Express, Swift, tldraw, Astro, Alpine.js
+**Languages & Frameworks:** JavaScript/TypeScript, React, TanStack (Start, Query), Node.js, Express, Swift, SwiftUI, tldraw, Astro, Alpine.js
 
 **Data & Backend:** Convex, MongoDB, Clerk (auth), vector search & embeddings
 
@@ -15,7 +15,6 @@ I taught before I coded. Was an Apple Genius before I built software. Bootcamp g
 **Creative/Audio-Visual:** p5.js, Meyda.js, Web Audio API
 
 **Deployment & Tools:** Vercel, Cloudinary, Tailwind CSS
-
 
 ## What I'm building
 
@@ -28,6 +27,7 @@ In June, I gave a talk at [Microsoft's AI Community Conference](https://www.comm
 ## Worth a look
 
 - **[djVisualizer](https://github.com/philaconvalley/djVisualizer)** — a live-coded, audio-reactive visual system (p5.js, Meyda.js, Web Audio API), performed live at Indy Hall Philadelphia. Probably the clearest single artifact of how I think: music, visuals, and code as the same instrument.
+- **[riffMemo](https://github.com/traksaw/riffMemo)** — a modern iOS app rebuilding Apple's discontinued Music Memos, built for musicians to capture and develop ideas the moment they happen — auto tempo/key detection, iCloud sync, native SwiftUI.
 - **[shoppingDebateChromeExtension](https://github.com/philaconvalley/shoppingDebateChromeExtension)** — three AI personalities (Claude, GPT-4, GPT-3.5) debate your purchase decisions in real time before checkout, streaming token-by-token. Built to make impulse-buying a little harder, not easier.
 - **[website](https://github.com/philaconvalley/website)** — the actual PhilaCon Valley site (Astro, Tailwind, Alpine.js), open for contribution from first-timers and seasoned developers alike.
 - **[backAgainstTheWall](https://github.com/traksaw/backAgainstTheWall)** — a full-stack platform extending a short film with reflection prompts and mental-health/financial-wellness resources. MERN stack, built for a real filmmaker's real audience.
