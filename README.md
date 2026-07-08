@@ -23,7 +23,7 @@ I taught before I coded. Was an Apple Genius before I built software. Bootcamp g
 
 Most recently, I was CTO of Ideate Better, Inc., an early-stage AI/SaaS startup — sole engineer, built the entire production architecture from scratch across three interconnected products. Helped close a Bronze Valley accelerator investment after a rigorous diligence process, onboarded and mentored an extern engineering cohort through Code Differently, and turned a live AI infrastructure cost overrun into a lasting cost-control discipline built into production.
 
-In June, I gave a talk at Microsoft's AI Community Conference in NYC — "From Pixels to Meaning: Building an AI Content Pipeline" — on turning unstructured creative content into something a machine can actually reason about. Generated real, unsolicited interest from people in the room.
+In June, I gave a talk at [Microsoft's AI Community Conference](https://www.communitydays.org/event/2026-06-26/ai-community-conference-new-york#sessions) in NYC — "From Pixels to Meaning: Building an AI Content Pipeline" — on turning unstructured creative content into something a machine can actually reason about. Generated real, unsolicited interest from people in the room.
 
 ## Worth a look
 
